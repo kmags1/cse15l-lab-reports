@@ -1,3 +1,5 @@
+In Week 0's lab, I learned how to make my own webpage using github, how to create and edit files online and offline on github desktop and VSCode, and how to push those changes to my online repository. I also learned how to use ***Markdown***.
+
 
 ![Image](Lab0_cse15l.png)
 
