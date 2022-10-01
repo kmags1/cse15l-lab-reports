@@ -86,3 +86,5 @@ $ cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI
 ![Image](Screenshot-step6.png)
 
 - The command is: scp WhereAmI.java vmaganti@ieng6.ucsd.edu:~/; ssh vmaganti@ieng6.ucsd.edu "javac WhereAmI.java;java WhereAmI"
+
+[Home Page](https://kmags1.github.io/cse15l-lab-reports/)
