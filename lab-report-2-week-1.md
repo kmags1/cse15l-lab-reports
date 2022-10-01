@@ -5,30 +5,30 @@
 
 ***Pre-Step:*** Logging in
 -
-- To log in to your student account, you need to find your student username using [Link](https://sdacs.ucsd.edu/~icc/index.php)
+- To log in to my student account, I had to find my student username using [Link](https://sdacs.ucsd.edu/~icc/index.php)
 
-![Image](screenshot-step1.png)
+![Image](Screenshot-step1.png)
 
-- Once you log in, You will find your username at the top or either a little below with all your associated accounts.
+- Once I logged in, I found my username at the bottom of the screen with all my associated accounts.
  
-- Reset you password if you need to using the same the link found on the page.
+- I reset my password using the same link found on the that page.
 
-![Image](screenshot-step1b.png)
+![Image](Screenshot-step1b.png)
 
-- You now have your username and password for your account ready
+- I now have my username and password ready
 
 
 ***Step 1:*** Installing VSCode
 - 
 - I didn't have to download VSCode as I already had it from before. It looks the exact same each time I open VSCode.
 
-![Image](screenshot-step2.png)
+![Image](Screenshot-step2.png)
 
 ***Step 2:*** Remotely Connecting
 - 
 - I didn't have to download OpenSSH as I already had it installed on my laptop.
 - I use Windows, and my laptop has some optional features like OpenSSH and OpenClient that I can download straight from settings. To take advtange of this, go to Settings->Apps->Optional Features to download OpenSSH.
-![Image](screenshot-step2a.png)
+![Image](Screenshot-step2a.png)
 - Now that laptop had all the required software, I was ready to login using SSH. First I opened a terminal in VSCode by  clicking Terminal->New Terminal in the Titlebar.
 - I was now ready to log into my student account. Using the username that in the pre-step. However, I couldn't get into my account as my passowrd kept failing each time even after resetting it.
 ![Image](Screenshot-step2b.png)
