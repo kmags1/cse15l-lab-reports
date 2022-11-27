@@ -39,7 +39,6 @@
     if [[ $? -eq 0 ]]
     then
         echo "PASS"
-        java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore TestListExamples > output.txt
     else
         grep -e "Tests run" output.txt
         echo "FAIL!"
@@ -76,12 +75,10 @@ Line 4: No stdout but stderr:
     remote: Enumerating objects: 3, done.
     remote: Counting objects: 100% (3/3), done.
     remote: Compressing objects: 100% (2/2), done.
-
+    remote: Total 3 (delta 0), reused 3 (delta 0), pack-reused 0
+    Unpacking objects: 100% (3/3), 709 bytes | 3.00 KiB/s, done.
 
 Line 5 through 17: No stdout and no stderr
-
-remote: Total 3 (delta 0), reused 3 (delta 0), pack-reused 0
-Unpacking objects: 100% (3/3), 709 bytes | 3.00 KiB/s, done.
 
 The first if statement on line 12 return false as the file ListExamples.java isn't found in the given path. The rest of the if conditions don't run.
 
