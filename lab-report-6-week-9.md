@@ -51,12 +51,15 @@
 **Running/Testing the script:**
 
 Test 1:
+
 ![Image](lab6-part1.png)
 
 Test 2:
+
 ![Image](lab6-part2.png)
 
 Test 3:
+
 ![Image](lab6-part3.png)
 
 
