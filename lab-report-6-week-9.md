@@ -68,7 +68,9 @@ Test 3:
 Line by line trace:
 
 The program runs only till line 17
+
 Line 3: No stdout and no stderr
+
 Line 4: No stdout but stderr:
 
     Cloning into 'student-submission'...
